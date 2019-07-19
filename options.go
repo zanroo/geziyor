@@ -1,11 +1,11 @@
 package geziyor
 
 import (
-	"github.com/geziyor/geziyor/cache"
-	"github.com/geziyor/geziyor/client"
-	"github.com/geziyor/geziyor/export"
-	"github.com/geziyor/geziyor/metrics"
-	"github.com/geziyor/geziyor/middleware"
+	"github.com/zanroo/geziyor/cache"
+	"github.com/zanroo/geziyor/client"
+	"github.com/zanroo/geziyor/export"
+	"github.com/zanroo/geziyor/metrics"
+	"github.com/zanroo/geziyor/middleware"
 	"time"
 )
 

@@ -1,10 +1,6 @@
 package geziyor
 
 import (
-	"github.com/geziyor/geziyor/cache"
-	"github.com/geziyor/geziyor/client"
-	"github.com/geziyor/geziyor/metrics"
-	"github.com/geziyor/geziyor/middleware"
 	"io/ioutil"
 	"log"
 	"net/http/cookiejar"
@@ -12,6 +8,11 @@ import (
 	"os/signal"
 	"runtime/debug"
 	"sync"
+
+	"github.com/zanroo/geziyor/cache"
+	"github.com/zanroo/geziyor/client"
+	"github.com/zanroo/geziyor/metrics"
+	"github.com/zanroo/geziyor/middleware"
 )
 
 // Geziyor is our main scraper type

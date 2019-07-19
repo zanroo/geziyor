@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"github.com/geziyor/geziyor/client"
-	"github.com/geziyor/geziyor/metrics"
+	"github.com/zanroo/geziyor/client"
+	"github.com/zanroo/geziyor/metrics"
 	"strconv"
 )
 

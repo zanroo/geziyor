@@ -3,7 +3,7 @@ package export
 import (
 	"encoding/csv"
 	"fmt"
-	"github.com/geziyor/geziyor/internal"
+	"github.com/zanroo/geziyor/internal"
 	"log"
 	"os"
 	"reflect"

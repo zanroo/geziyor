@@ -1,7 +1,7 @@
 package diskcache
 
 import (
-	"github.com/geziyor/geziyor/cache"
+	"github.com/zanroo/geziyor/cache"
 	"io/ioutil"
 	"os"
 	"testing"

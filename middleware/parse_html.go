@@ -3,7 +3,7 @@ package middleware
 import (
 	"bytes"
 	"github.com/PuerkitoBio/goquery"
-	"github.com/geziyor/geziyor/client"
+	"github.com/zanroo/geziyor/client"
 )
 
 // ParseHTML parses response if response is HTML

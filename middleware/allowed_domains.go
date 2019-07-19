@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"github.com/geziyor/geziyor/client"
-	"github.com/geziyor/geziyor/internal"
+	"github.com/zanroo/geziyor/client"
+	"github.com/zanroo/geziyor/internal"
 )
 
 // AllowedDomains checks for request host if it exists in AllowedDomains
